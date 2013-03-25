@@ -1,0 +1,26 @@
+﻿/** Root Elements */
+html {
+	margin:0px;
+	padding:0px;
+	background-color:#ffffff;
+}
+
+body {
+	margin:0px;
+	padding:0px;
+	background-color:transparent;
+	font:14px / 1.5 sans-serif;
+}
+
+/** Block elements */
+div {}
+
+p {margin:1.5 em 0;}
+pre {margin:1.5em 0; font-family:monospace; white-space:pre;}
+adress {margin:1.5em 0; font-style:italic;}
+blockquote{margin:1.5em 40;}
+
+/** HTML 5 elements 
+
+header, nav, footer, article, aside  
+*/
